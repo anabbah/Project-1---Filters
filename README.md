@@ -1,2 +1,2 @@
 # Project-1---Filters
-In this project, I used a series of lists and for-loops in Python to create various filters that I have applied to an image of a dog. 
+In this project, I will use PIL (Python Imaging Library) to help me read an image (a dog). I read the images and converted them to pixels of R, G, and B values. After the image is stored in an "img" variable, the dimensions of the image are found. Finding the width and height of the image will help iterate over each pixel. Utilizing for-loops and lists, I then created various filters by manipulating these pixels.
